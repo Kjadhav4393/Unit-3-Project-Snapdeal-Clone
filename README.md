@@ -1,20 +1,21 @@
 # Unit-3-Project-Snapdeal-Clone
 
 <p> 
-  I was given the problem statement to make a clone of Nykaa, Nykaa is an Indian E-commerce company that sells beauty, wellness, and fashion products.
+ Snapdeal is an Indian E-commerce Company, it sells clothes, electronics gadgets, shoes &, etc.
 
 Features:
--payment gateway
--Add to cart
--Admin Page/Admin login
+-Sorting based on price range and alphabetically
+-Functionalities like add to cart sort and payment
+-Product Page
 
-Tech Stack: HTML | CSS | Javascript 
+Tech Stack: HTML | CSS | Advance Javascript
 
 Areas of responsibility:
--Developed a Homepage, and product page
--created Admin page where admin can upload or update the products 
--worked on header/footer, and sign in/ signup part
+-Created the Header and footer 
+-Developed parts of the Product page. 
+-Created option to choose between sizes
+-Collaborated with the team to create pages like the Home page and payment page
 
-This is a solo project made by me, executed in 5 days
+A collaborative project built by a team of 5 executed in 4 days.
 
 </p>
